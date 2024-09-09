@@ -219,7 +219,7 @@ footer {
     }
 }
 
-@media (width < 43rem) {
+@media (width < 27rem) {
 
     header,
     nav,
