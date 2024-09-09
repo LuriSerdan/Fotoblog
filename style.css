@@ -206,7 +206,7 @@ footer {
     }
 }
 
-@media (width < 1286px) {
+@media (min-width: 769px) and (max-width: 1024px) {
     .gallery {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -219,7 +219,7 @@ footer {
     }
 }
 
-@media (width < 430px) {
+@media (max-width: 768px) {
 
     header,
     nav,
